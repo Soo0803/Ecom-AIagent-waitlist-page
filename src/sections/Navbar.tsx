@@ -47,7 +47,7 @@ export function Navbar() {
               }}
             >
               <span className="font-bold text-lg text-slate-900 group-hover:text-blue-700 transition-colors">
-                SellerSupportOps
+                Terny.sellersupport
               </span>
             </a>
 

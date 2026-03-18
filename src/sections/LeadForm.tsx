@@ -137,19 +137,19 @@ export function LeadForm() {
                 You're on the list!
               </h2>
               <p className="text-lg text-slate-600 mb-6">
-                Thank you for your interest in SellerSupportOps. We've received your request
+                Thank you for your interest in Terny.sellersupport. We've received your request
                 for early access and will be in touch soon.
               </p>
               <div className="bg-blue-50 rounded-lg p-4 mb-6">
                 <p className="text-sm text-blue-700">
                   <strong>What's next?</strong> We're onboarding select sellers in batches.
-                  You'll receive an email when it's your turn to try SellerSupportOps.
+                  You'll receive an email when it's your turn to try Terny.sellersupport.
                 </p>
               </div>
               <p className="text-sm text-slate-500">
                 Have questions? Email us at{' '}
-                <a href="mailto:hello@sellersupportops.com" className="text-blue-600 hover:underline">
-                  hello@sellersupportops.com
+                <a href="mailto:terny.sellersupport@gmail.com" className="text-blue-600 hover:underline">
+                  terny.sellersupport@gmail.com
                 </a>
               </p>
             </div>
@@ -172,7 +172,7 @@ export function LeadForm() {
             Get Early Access
           </h2>
           <p className="text-lg text-slate-600 max-w-2xl mx-auto">
-            Join the waitlist to be among the first to use SellerSupportOps.
+            Join the waitlist to be among the first to use Terny.sellersupport.
             We're onboarding select sellers in batches.
           </p>
         </ScrollReveal>

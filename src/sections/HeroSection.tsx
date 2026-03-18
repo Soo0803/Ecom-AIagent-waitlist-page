@@ -164,7 +164,7 @@ export function HeroSection() {
               variants={heroItem}
               className="text-lg sm:text-xl text-slate-600 leading-relaxed mb-8 max-w-xl mx-auto lg:mx-0"
             >
-              SellerSupportOps is an Agentic AI assistant that connects to Seller Central,
+              Terny.sellersupport is an Agentic AI assistant that connects to Seller Central,
               auto-triages your issues, drafts compliant responses, and monitors SLAs.
             </motion.p>
 
@@ -258,9 +258,9 @@ export function HeroSection() {
                     <div className="bg-blue-700 p-3 flex items-center justify-between shadow-inner">
                       <div className="flex items-center gap-2">
                         <div className="w-5 h-5 bg-white rounded-sm flex items-center justify-center">
-                          <span className="text-blue-700 font-bold text-[10px]">S</span>
+                          <span className="text-blue-700 font-bold text-[10px]">T</span>
                         </div>
-                        <span className="text-white text-[11px] font-semibold">SellerSupportOps</span>
+                        <span className="text-white text-[11px] font-semibold">Terny.sellersupport</span>
                       </div>
                     </div>
 

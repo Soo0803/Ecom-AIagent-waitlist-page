@@ -5,7 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'SellerSupportOps - Waitlist',
+  title: 'Terny.sellersupport - Waitlist',
   description: 'AI-agent for handling Amazon Seller support cases.',
 }
 

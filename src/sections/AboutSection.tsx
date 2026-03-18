@@ -81,7 +81,7 @@ export function AboutSection() {
             <ScrollReveal delay={0.1}>
               <div className="space-y-4 text-slate-300 leading-relaxed mb-8 text-lg">
                 <p>
-                  SellerSupportOps isn't just another SaaS tool built by developers who've never dealt with an ASIN suppression.
+                  Terny.sellersupport isn't just another SaaS tool built by developers who've never dealt with an ASIN suppression.
                   It was built from inside the trenches of Amazon Seller Central.
                 </p>
                 <p>
@@ -92,7 +92,7 @@ export function AboutSection() {
                 </p>
                 <p>
                   We understand both the complex backend engineering needed to build robust AI agents, AND the brutal reality of
-                  protecting your Amazon business. Every feature in SellerSupportOps was built to solve our own problems first.
+                  protecting your Amazon business. Every feature in Terny.sellersupport was built to solve our own problems first.
                 </p>
               </div>
             </ScrollReveal>

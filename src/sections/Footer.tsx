@@ -24,7 +24,7 @@ export function Footer() {
           {/* Brand Column */}
           <div className="md:col-span-1">
             <div className="flex items-center mb-4">
-              <span className="font-bold text-lg">SellerSupportOps</span>
+              <span className="font-bold text-lg">Terny.sellersupport</span>
             </div>
             <p className="text-slate-400 mb-6 max-w-sm">
               AI-Powered Amazon Seller Support Automation. Stop fighting Amazon support.
@@ -55,10 +55,10 @@ export function Footer() {
             <div className="flex items-center gap-2 text-slate-400 mb-6">
               <Mail className="w-4 h-4" />
               <a
-                href="mailto:hello@sellersupportops.com"
+                href="mailto:terny.sellersupport@gmail.com"
                 className="hover:text-blue-400 transition-colors"
               >
-                hello@sellersupportops.com
+                terny.sellersupport@gmail.com
               </a>
             </div>
           </div>
@@ -67,7 +67,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-slate-800 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-slate-500 text-sm">
-            © {new Date().getFullYear()} SellerSupportOps. All rights reserved.
+            © {new Date().getFullYear()} Terny.sellersupport. All rights reserved.
           </p>
         </div>
       </div>
